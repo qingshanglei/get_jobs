@@ -24,6 +24,13 @@
 </p>
 </div>
 
+> 本项目与“一键职达”项目无任何隶属、合作或技术关联关系。  
+> 双方在技术实现、架构设计及功能规划上均为独立开发、互不依赖。  
+> 本项目采用 Java 实现，双方源代码完全独立，互不引用，双方不存在任何形式的抄袭或侵权行为。
+
+
+
+
 - [如何使用本程序寻找程序兼职岗位?](doc/part_job.md)
 - [你找不到工作，是因为大环境不好吗？【很重要】](doc/doc.md)
 - [少侠，请立即开始，你精彩的人生吧！【源自L站】](doc/just_do_it.md)
@@ -345,8 +352,6 @@ cd get_jobs
 
 - 近日已经有人反馈，有人拿着本项目免费开源的代码，在闲鱼等小红书各处售卖
 - 本项目代码完全开源免费，请勿上当受骗，请大家擦亮眼睛
-- 这是一个将本项目免费源码的网站  
-  <img src="src/main/resources/images/骗子网站.png" alt="骗子网站">
   <img src="src/main/resources/images/pian1.png" alt="骗子1">
   <img src="src/main/resources/images/pian2.png" alt="骗子2">
   <img src="src/main/resources/images/pian3.png" alt="骗子3">
